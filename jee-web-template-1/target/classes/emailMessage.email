@@ -1,0 +1,8 @@
+<!DOCTYPE HTML><html><head><meta http-equiv="Content-Type" content="text/html;"
+				 charset=UTF-8\><title>Test</title></head><body><p>Dear user Client!You have
+				 
+				 
+				 requested a registration of email address for your account on the Recruit Site. In Order 
+					to confirm this registration, click the following link:   <a href="http://localhost:8080/webtasks//verification.php?email=${email}&securiteNumber=${securiteNumber}"
+				>Recruit Site</a></p>
+					</body></html>
